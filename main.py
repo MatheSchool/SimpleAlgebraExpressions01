@@ -1,3 +1,3 @@
-a = 4 + 3;
+result = 4 + 3;
 
-print(a)
+print(result)
